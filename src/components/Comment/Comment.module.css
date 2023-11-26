@@ -1,0 +1,18 @@
+.commentContainer {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(208, 208, 208);
+    padding: 1rem;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+}
+
+.data {
+    color:rgb(6, 6, 6);
+}
+.name {
+    color: rgb(47, 46, 46);
+}
+.content {
+    color: rgb(46, 46, 46);
+}
